@@ -273,7 +273,7 @@ sections:
         - name: email 3
           label: Name
           placeholder: Your name
-          isRequired: false
+          isRequired: true
           width: full
           type: EmailFormControl
       submitLabel: Send Message
