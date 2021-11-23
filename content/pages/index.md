@@ -56,7 +56,12 @@ sections:
         justifyContent: flex-start
     subtitle: Subtitle
     feature:
-      url: 'https://www.youtube.com/watch?v=L_ggvVrQDEM'
+      url: >-
+        <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/L_ggvVrQDEM" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
       thumbnailUrl: >-
         https://assets.stackbit.com/components/images/default/stackbit-for-marketers.jpeg
       autoplay: false
