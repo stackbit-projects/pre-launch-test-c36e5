@@ -58,7 +58,7 @@
             }
         },
         "logo": {
-            "url": "/images/focused.svg",
+            "url": "/images/faster.svg",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": "",
