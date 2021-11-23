@@ -64,7 +64,6 @@ sections:
       controls: true
       elementId: ''
       type: VideoBlock
-      url: 'https://www.youtube.com/watch?v=L_ggvVrQDEM'
   - elementId: ''
     colors: colors-f
     backgroundImage:
