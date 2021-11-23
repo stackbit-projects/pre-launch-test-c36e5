@@ -63,7 +63,7 @@ sections:
       autoplay: false
       loop: false
       muted: false
-      controls: true
+      controls: false
       elementId: ''
       type: VideoBlock
   - elementId: ''
