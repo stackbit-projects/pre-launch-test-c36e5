@@ -44,6 +44,7 @@ sections:
           text:
             textAlign: left
         isRatingVisible: true
+        rating: 4
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
