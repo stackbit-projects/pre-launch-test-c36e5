@@ -264,7 +264,7 @@ sections:
           name: updates
           label: Sign me up to receive updates
           width: full
-        - name: lorem-ipsum
+        - name: emails
           label: Name
           placeholder: Your name
           isRequired: true
