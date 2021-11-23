@@ -53,10 +53,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-7
-          - pb-7
-          - pl-7
-          - pr-7
+          - pt-11
+          - pb-11
+          - pl-11
+          - pr-11
         justifyContent: center
       quote:
         textAlign: center
