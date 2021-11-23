@@ -270,7 +270,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: lorem-ipsum
+        - name: email 3
           label: Name
           placeholder: Your name
           isRequired: false
