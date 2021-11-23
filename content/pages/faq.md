@@ -45,6 +45,16 @@ sections:
             textAlign: left
         isRatingVisible: true
         rating: 4
+        actions:
+          - label: Learn more
+            altText: Learn more
+            url: /
+            showIcon: false
+            icon: arrowLeft
+            iconPosition: right
+            style: secondary
+            elementId: ''
+            type: Button
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
