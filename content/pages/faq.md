@@ -42,7 +42,7 @@ sections:
             textAlign: left
           text:
             textAlign: left
-        rating: 5
+        rating: 1
         isRatingVisible: true
       - type: ItemBlock
         title: How it this different from what we have today?
