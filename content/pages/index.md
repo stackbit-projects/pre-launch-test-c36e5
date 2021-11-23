@@ -22,7 +22,7 @@ sections:
         showIcon: false
         icon: arrowLeft
         iconPosition: right
-        style: link
+        style: secondary
         elementId: ''
         type: Button
     feature:
