@@ -55,21 +55,6 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: Subtitle
-    feature:
-      url: >-
-        <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/L_ggvVrQDEM" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-      thumbnailUrl: >-
-        https://assets.stackbit.com/components/images/default/stackbit-for-marketers.jpeg
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
-      elementId: ''
-      type: VideoBlock
   - elementId: ''
     colors: colors-f
     backgroundImage:
