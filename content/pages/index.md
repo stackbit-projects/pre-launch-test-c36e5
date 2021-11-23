@@ -80,14 +80,14 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
+        label: Learn More
+        url: /
+        style: secondary
+      - type: Button
         label: Get Started
         url: /
         style: primary
         elementId: hero-main-button
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
     feature:
       type: ImageBlock
       url: 'https://assets.stackbit.com/components/images/default/hero.png'
