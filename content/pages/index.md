@@ -56,8 +56,7 @@ sections:
         justifyContent: flex-start
     subtitle: Subtitle
     feature:
-      url: >-
-        https://assets.stackbit.com/components/videos/default/stackbit-for-marketers.mp4
+      url: 'https://www.youtube.com/watch?v=L_ggvVrQDEM'
       thumbnailUrl: >-
         https://assets.stackbit.com/components/images/default/stackbit-for-marketers.jpeg
       autoplay: false
