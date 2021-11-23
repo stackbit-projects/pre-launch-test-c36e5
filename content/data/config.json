@@ -5,7 +5,7 @@
         "primaryColors": "colors-g",
         "secondaryColors": "colors-f",
         "title": "Startup.io.lll",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "label": "Learn more",
