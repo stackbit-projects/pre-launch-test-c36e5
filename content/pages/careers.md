@@ -270,6 +270,12 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - name: lorem-ipsum
+          label: Name
+          placeholder: Your name
+          isRequired: false
+          width: full
+          type: EmailFormControl
       submitLabel: Send Message
       styles:
         submitLabel:
